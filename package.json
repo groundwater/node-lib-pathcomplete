@@ -1,6 +1,6 @@
 {
   "name": "lib-pathcomplete",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "path completion",
   "main": "index.js",
   "author": "Jacob Groundwater <groundwater@gmail.com>",
