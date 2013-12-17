@@ -1,0 +1,12 @@
+{
+  "name": "lib-pathcomplete",
+  "version": "0.0.0",
+  "description": "path completion",
+  "main": "index.js",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "~3.2.7",
+    "pathchop": "0.0.0"
+  }
+}
