@@ -8,6 +8,9 @@ npm install lib-pathcomplete
 
 ## Usage
 
+- works with absolute paths
+- works with relative paths to `process.cwd()`
+
 ```javascript
 var pc = require('lib-pathcomplete');
 
